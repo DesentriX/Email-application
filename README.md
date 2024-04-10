@@ -19,17 +19,18 @@ A web application that sends personalised emails to recipients when a csv file i
 
 # What I learned:
 - Gained familiarity with AWS services like DynamoDB and SES
+
+  
+
+# Improvements:
+- Implemented better error handling and logging in both frontend and backend.
+- Made user interface simple to use.
 - Improved knowledge on amazon S3 and Lambda 
 - improved CORS error handling.
 - Improved debugging skills for frontend-backend communication.
 - improved front end and backend communication skills.
 - Improved research skills
 - Improved cloud familiarity
-  
-
-# Improvements:
-- Implemented better error handling and logging in both frontend and backend.
-- Made user interface simple to use.
 
 
   # Running the Project:
