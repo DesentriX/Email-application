@@ -43,7 +43,7 @@ A web application that sends personalised emails to recipients when a csv file i
 
 # Demo Video
 - To showcase the program
-- https://streamable.com/w8pnmq
+- Download the .mp4 file
 - your csv file template should look like this:  https://imgur.com/DJ2VKB1
 
   
